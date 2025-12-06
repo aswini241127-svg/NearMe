@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 06.12.25
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -26,6 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 
+map.hml
 <!DOCTYPE html>
 <html>
    
@@ -241,14 +242,13 @@ Transport connectivity is another highlight of Kundrathur. Well-linked by road t
         </p>
     </body>
 </html>
-
+```
 
 ## OUTPUT
-
-
-
-
-
+![alt text](<Screenshot (18).png>)
+![alt text](2.png)
+![alt text](1.png)
+![alt text](3.png)
 
 
 ## RESULT

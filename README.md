@@ -25,7 +25,6 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-map.html
 
 <!DOCTYPE html>
 <html>
@@ -33,7 +32,7 @@ map.html
     <title>MY TOWN</title>
     <h1><b>MANGADU</b></h1>
         
-    <h2>PRIYARITHANYA M(25007623)</h2>    
+    <h2>ASWINI D (25007623)</h2>    
     <style>
         h1{
             text-align: center;

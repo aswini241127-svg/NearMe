@@ -62,7 +62,7 @@ map.hml
 </html>
 
 mycity.html
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -249,7 +249,8 @@ Transport connectivity is another highlight of Kundrathur. Well-linked by road t
 ![alt text](2.png)
 ![alt text](1.png)
 ![alt text](3.png)
-
+![alt text](4-3.png)
+![alt text](5-2.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
